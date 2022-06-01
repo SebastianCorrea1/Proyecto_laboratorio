@@ -1,5 +1,5 @@
 # proyecto-lab-soft-viveros
-App-viveros Angular-Django
+App-viveros -Django
 
 ## Ejecutar servidor 
    python manage.py runserver
